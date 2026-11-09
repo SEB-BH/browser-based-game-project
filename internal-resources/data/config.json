@@ -14,26 +14,32 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup",
-          "dirName": "setup",
+          "friendlyName": "Getting Started",
+          "dirName": "project-journey",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Exercise Intro",
-          "dirName": "exercise-intro",
+          "friendlyName": "Project Requirements",
+          "dirName": "project-requirements",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Hint Set A",
-          "dirName": "exercise-1-3",
+          "friendlyName": "Games List",
+          "dirName": "recommended-games",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Hint Set B",
-          "dirName": "exercise-4-5",
+          "friendlyName": "Project Details",
+          "dirName": "project-details",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Proejct Deliverables",
+          "dirName": "project-deliverables",
           "type": "Content",
           "videoUrl": ""
         }
@@ -65,26 +71,32 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup",
-          "dirName": "setup",
+          "friendlyName": "Getting Started",
+          "dirName": "project-journey",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Exercise Intro",
-          "dirName": "exercise-intro",
+          "friendlyName": "Project Requirements",
+          "dirName": "project-requirements",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Hint Set A",
-          "dirName": "exercise-1-3",
+          "friendlyName": "Games List",
+          "dirName": "recommended-games",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Hint Set B",
-          "dirName": "exercise-4-5",
+          "friendlyName": "Project Details",
+          "dirName": "project-details",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Proejct Deliverables",
+          "dirName": "project-deliverables",
           "type": "Content",
           "videoUrl": ""
         }
