@@ -3,6 +3,8 @@
   <span class="headline">Browser-Based Game Project</span>
 </h1>
 
+[**👉 SUBMIT GITHUB REPO LINK HERE 👈**](https://docs.google.com/spreadsheets/d/1MwBzn8pWjm6rORGzu4bbrapN7NonBupGMc2_eFD3HWM/edit?usp=sharing)
+
 ## About
 
 Dive into your first coding project through a fun, browser-based game! Get ready to solve challenging problems and unleash your creativity while thinking like a programmer.
