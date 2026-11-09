@@ -30,7 +30,9 @@ You will submit the following details about your project for approval by your in
 You'll need to set up a GitHub repo for your project, and a kanban board using GitHub Projects.
 
 - Your choice of game.
-- A kanban board with planned features (user stories/artifacts)
+- A kanban board with planned features
+  - Wireframe (at least 1)
+  - User stories (at least 10)
 - Any additional project planning requirements specific to the game you have chosen as defined in the in the **Additional Planning Requirements** column of the table in the **Recommended games** document or as discussed with your instructor.
 
 > 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
