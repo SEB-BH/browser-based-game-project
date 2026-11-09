@@ -1,4 +1,7 @@
-# ![Browser-Based Game Project - Project Journey](./assets/hero.png)
+<h1>
+  <span class="prefix">JavaScript Browser Game</span>
+  <span class="headline">Getting Started</span>
+</h1>
 
 Project week is when students typically learn the most. During this week you'll have fewer lectures and deliverables that are not related to your project. Instead, you'll primarily be self-directed to plan, build, and complete your project.
 
