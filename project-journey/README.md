@@ -17,24 +17,20 @@ Before you start planning, review the [project requirements](../project-requirem
 
 ## 1. Project planning
 
-Project week starts with project planning. For more details and the specific requirements, see the [Broswer-based Game Project Deliverables](../project-deliverables/README.md).
+Project week starts with project planning. Create the public GitHub repo that you'll use for the project, then use GitHub's `Projects` feature to create your Product Backlog (kanban board).  For more details and the specific requirements, see the [Broswer-based Game Project Deliverables](../project-deliverables/README.md).
 
 When you submit your project planning materials your proposal will either be approved, or you'll receive feedback and be asked to make adjustments before a final approval can be given.
 
-## 2. Create a GitHub repo
+## 2. Build the project
 
-Once your project proposal is approved, create the public GitHub repo that you'll use for the project. See the [Broswer-based Game Project Deliverables](../project-deliverables/README.md) for more details.
+Once your project proposal is approved, it's time for the fun part! Start building your project! Make sure you're reviewing the project requirements throughout project week. The printable [project requirements PDF](../project-requirements/assets/project-requirements.pdf) may be useful for checking items off as you go through project week.
 
-## 3. Build the project
-
-The fun part! Start building your project! Make sure you're reviewing the project requirements throughout project week. The printable [project requirements PDF](../project-requirements/assets/project-requirements.pdf) may be useful for checking items off as you go through project week.
-
-## 4. Deploy the work you have so far
+## 3. Deploy the work you have so far
 
 During project week, you'll deploy your project to the internet and submit a link to your deployed app. See the [Broswer-based Game Project Deliverables](../project-deliverables/README.md) for more details.
 
 Continue working on your project until presentation day.
 
-## 5. Present your project
+## 4. Present your project
 
 Project week ends with a presentation of your project!
