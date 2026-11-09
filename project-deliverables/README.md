@@ -1,4 +1,7 @@
-# ![Browser-Based Game Project - Project Deliverables](./assets/hero.png)
+<h1>
+  <span class="prefix">JavaScript Browser Game</span>
+  <span class="headline">Project Deliverables</span>
+</h1>
 
 ## Contents
 
