@@ -1,5 +1,7 @@
-# ![Browser-Based Game Project - Project Requirements](./assets/hero.png)
-
+<h1>
+  <span class="prefix">JavaScript Browser Game</span>
+  <span class="headline">Project Requirements</span>
+</h1>
 ## Overview
 
 For this project, you'll be building something fun - a game!
